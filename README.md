@@ -1,5 +1,10 @@
 **Overview:**
 The webpage serves as a dynamic platform for LifeCare Charitable Trust to convey its core mission, highlight ongoing initiatives, and showcase recent activities. It not only provides visitors with insight into the organization's noble endeavors but also offers seamless avenues for engagement through social media integration and easy access to contact information. Through a harmonious blend of visual storytelling and interactive elements, the website aims to foster meaningful connections with its audience while advocating for positive change and community involvement.
+
+
+https://github.com/SivaVimel/LifeCareCharitableTrust/assets/87802556/5a19bcec-c6de-492a-ba97-b5735aac2ee5
+
+
 Here's a small overview of what the webpage represents:
 
 - **Header Section:** The header section contains the organization's logo along with its name and a brief tagline ("Providing Care and Support for a Better Tomorrow"). It also features a background image and a semi-transparent overlay for aesthetic appeal.
