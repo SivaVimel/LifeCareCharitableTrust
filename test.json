@@ -1,13 +1,3 @@
 {
-    "users": {
-        "sivavimelrajhen@gmail.com": {
-            "password": "test123"
-        },
-        "anotheruser@example.com": {
-            "password": "password123"
-        },
-        "user3@example.com": {
-            "password": "securepassword"
-        }
-    }
+    "sivavimelrajhen@gmail.com": "test123"
 }
